@@ -3,7 +3,7 @@ this is a school project that i made when i was grade 7 back in 2016
 
 you can click on the mouse to attack, 
 wasd to move, and 
-E to use skill
+E to use skill.
 
 the enemys will be exponentialy increase as you kill the enemy
 
